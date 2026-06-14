@@ -1,5 +1,3 @@
-Here is the clean, plain-text version without any bold formatting or markdown styling, perfectly suited for your code comments or plain text documentation:
-
 Textbook Selection and Management System
 
 Technology Stack: JavaWeb
